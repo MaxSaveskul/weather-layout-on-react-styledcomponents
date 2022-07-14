@@ -12,10 +12,10 @@ function TimeL() {
 			<Timeline>Timeline <Week>Week</Week></Timeline>
 			<TimelineBlocks>
 				<OneTimelineBlock img={clouds} temp={'23°'} time={'09:00'} />
-				<OneTimelineBlock img={sunclouds} temp={'28°'} time={'09:00'} />
-				<OneTimelineBlock img={sun} temp={'32°'} time={'09:00'} />
-				<OneTimelineBlock img={sun} temp={'33°'} time={'09:00'} />
-				<OneTimelineBlock img={night} temp={'30°'} time={'09:00'} />
+				<OneTimelineBlock img={sunclouds} temp={'28°'} time={'12:00'} />
+				<OneTimelineBlock img={sun} temp={'32°'} time={'15:00'} />
+				<OneTimelineBlock img={sun} temp={'33°'} time={'18:00'} />
+				<OneTimelineBlock img={night} temp={'30°'} time={'21:00'} />
 			</TimelineBlocks>
 		</section>
 	)
