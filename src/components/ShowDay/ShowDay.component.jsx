@@ -1,5 +1,5 @@
 import { ShowDayDiv, DayNameP, ForecastP, CloudsImg } from './ShowDay.styles.js'
-import clouds from '../../img/clouds.png'
+import clouds from '../../assets/clouds.png'
 
 function ShowDay() {
 	return (
